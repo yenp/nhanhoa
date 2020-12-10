@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/app/code/Mageplaza/SocialLogin/view/frontend/web/js/view/social-buttons.js

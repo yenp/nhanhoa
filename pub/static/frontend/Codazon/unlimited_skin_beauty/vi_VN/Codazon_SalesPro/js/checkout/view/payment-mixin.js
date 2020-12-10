@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/app/code/Codazon/SalesPro/view/frontend/web/js/checkout/view/payment-mixin.js

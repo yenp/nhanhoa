@@ -1,0 +1,5 @@
+.page-footer{
+    .block.newsletter, .block.newsletter .field.newsletter{
+        max-width: none;
+    }
+}

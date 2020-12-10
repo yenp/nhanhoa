@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/vendor/magento/module-ui/view/base/web/js/core/renderer/types.js

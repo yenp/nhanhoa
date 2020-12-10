@@ -1,0 +1,13 @@
+/* ============= Search category ============= */
+.block-search .action.search[disabled] {
+    opacity: 1;
+}
+@media @tablet_vertical {
+    #search_mini_form {
+        width: auto;
+        float: none;
+    }
+}
+.searchsuite-autocomplete-box();
+.search-by-category();
+.search-box-default();

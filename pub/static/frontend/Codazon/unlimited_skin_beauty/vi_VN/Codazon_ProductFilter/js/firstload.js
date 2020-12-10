@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/app/code/Codazon/ProductFilter/view/frontend/web/js/firstload.js

@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/app/code/Codazon/ShoppingCartPro/view/frontend/web/js/minicart.js

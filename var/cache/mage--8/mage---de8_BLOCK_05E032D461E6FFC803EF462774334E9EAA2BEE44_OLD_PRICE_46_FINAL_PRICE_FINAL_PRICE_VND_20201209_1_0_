@@ -1,0 +1,27 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1607512039;s:6:"expire";i:1607598439;s:4:"tags";s:150:"de8_BLOCK_HTML,de8_CAT_P_46,de8_CAT_P,de8_CAT_P_26,de8_CAT_P_29,de8_CAT_P_32,de8_CAT_P_21,de8_CAT_P_33,de8_CAT_P_34,de8_CAT_P_35,de8_CAT_P_22,de8_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="46" data-price-box="product-id-46">
+            <p class="price-from">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">From</span>
+        <span  id="old-price-46-final_price"                data-price-amount="61"
+        data-price-type="minPrice"
+        class="price-wrapper "
+    ><span class="price">61 ₫</span></span>
+        </span>
+                    </p>
+        <p class="price-to">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">To</span>
+        <span  id="old-price-46-final_price"                data-price-amount="77"
+        data-price-type="maxPrice"
+        class="price-wrapper "
+    ><span class="price">77 ₫</span></span>
+        </span>
+                    </p>
+    </div>

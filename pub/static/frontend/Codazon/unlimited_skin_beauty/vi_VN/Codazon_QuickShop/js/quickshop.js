@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/app/code/Codazon/QuickShop/view/frontend/web/js/quickshop.js

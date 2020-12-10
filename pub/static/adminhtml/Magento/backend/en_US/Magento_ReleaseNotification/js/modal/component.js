@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/vendor/magento/module-release-notification/view/adminhtml/web/js/modal/component.js

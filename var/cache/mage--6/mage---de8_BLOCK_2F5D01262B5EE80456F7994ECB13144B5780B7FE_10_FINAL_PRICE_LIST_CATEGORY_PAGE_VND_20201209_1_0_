@@ -1,0 +1,28 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1607555737;s:6:"expire";i:1607642137;s:4:"tags";s:46:"de8_BLOCK_HTML,de8_CAT_P_10,de8_CAT_P,de8_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="10" data-price-box="product-id-10">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="product-price-10"                data-price-amount="24"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">24 ₫</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-10"                data-price-amount="32"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">32 ₫</span></span>
+        </span>
+    </span>
+
+</div>

@@ -1,0 +1,18 @@
+<?php
+/**
+* Copyright © 2020 Codazon. All rights reserved.
+* See COPYING.txt for license details.
+*/
+?>
+<?php
+$layout = $this->getLayout();
+$helper = $this->helper(\Codazon\GoogleAmpManager\Helper\Data::class);
+?>
+<?= $this->getBlockHtml('product.info.media.image') ?>
+<?= $layout->renderElement('product.info.price') ?>
+<?= $this->getBlockHtml('product.price.tier') ?>
+<?= $layout->renderElement('amp_product.info.main') ?>
+<?= $this->getBlockHtml('product.info') ?>
+<?= $this->getBlockHtml('amp-product.info.details') ?>
+<?= $helper->filterTags($this->getBlockHtml('catalog.product.related')) ?>
+<?= $helper->filterTags($this->getBlockHtml('product.info.upsell')) ?>

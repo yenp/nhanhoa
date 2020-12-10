@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/vendor/magento/module-catalog/view/base/web/js/price-box.js

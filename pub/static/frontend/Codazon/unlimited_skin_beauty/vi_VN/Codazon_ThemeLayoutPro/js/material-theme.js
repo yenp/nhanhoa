@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/app/code/Codazon/ThemeLayoutPro/view/frontend/web/js/material-theme.js

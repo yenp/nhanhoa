@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/app/code/Codazon/AjaxLayeredNavPro/view/frontend/web/js/swatch-renderer.js

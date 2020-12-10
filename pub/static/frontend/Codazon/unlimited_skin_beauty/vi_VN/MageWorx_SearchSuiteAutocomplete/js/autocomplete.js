@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/app/code/MageWorx/SearchSuiteAutocomplete/view/frontend/web/js/autocomplete.js

@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js

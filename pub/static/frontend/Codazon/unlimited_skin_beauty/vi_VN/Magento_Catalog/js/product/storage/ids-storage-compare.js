@@ -1,0 +1,1 @@
+/home/nhanhoa/domains/nhathuocnhanhoa.vn/public_html/vendor/magento/module-catalog/view/frontend/web/js/product/storage/ids-storage-compare.js

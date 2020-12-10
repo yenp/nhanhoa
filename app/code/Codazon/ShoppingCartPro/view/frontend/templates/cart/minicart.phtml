@@ -1,0 +1,25 @@
+<?php
+/**
+ * Copyright © 2018 Codazon, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+/* @block Codazon\ShoppingCartPro\Block\MiniCart */
+?>
+<?php
+$helper = $this->getHelper();
+?>
+<?php if ($helper->enableCustomCart()) : ?>
+<?php
+$style = $helper->getMiniCartStyle();
+?>
+
+<?php if ($style == 1) : /* popup */ ?>
+    <?php echo $this->setTemplate('cart/popup.phtml')->toHtml(); ?>
+<?php elseif ($style == 2) : /* footer cart */ ?>
+    <?php echo $this->setTemplate('cart/footer-panel.phtml')->toHtml(); ?>
+<?php elseif ($style == 3) : /* footer cart */ ?>
+    <?php echo $this->setTemplate('cart/sidebar.phtml')->toHtml(); ?>
+<?php endif ?>
+
+<?php endif ?>

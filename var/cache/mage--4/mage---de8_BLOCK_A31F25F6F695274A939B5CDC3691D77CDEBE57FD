@@ -1,0 +1,71 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1607512026;s:6:"expire";i:1607598426;s:4:"tags";s:40:"de8_BRAND_SLIDER,de8_BLOCK_HTML,de8_MAGE";}
+
+
+<div class="static-list-wrapper no-loaded" data-role="static-list-wrapper">
+    <div class="brand-loader double-bounce-spinner" data-role="loader">
+        <div class="double-bounce1"></div>
+        <div class="double-bounce2"></div>
+    </div>
+    <div class="shop-by-brand-list style-default flex-grid" data-mage-init='{"themewidgets":{"codazon.autowidth":{"itemsPerRow":{"1900":8,"1600":6,"1420":6,"1280":6,"980":4,"768":3,"480":3,"320":2,"0":2},"margin":"10"}}}'>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/organika" title="Organika">
+                <img class="brand-img zoom-eff" alt="Organika" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-organkia.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/maca" title="Maca">
+                <img class="brand-img zoom-eff" alt="Maca" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-maca.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/vichy" title="Vichy">
+                <img class="brand-img zoom-eff" alt="Vichy" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-vichy.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/ageloss" title="Ageloss">
+                <img class="brand-img zoom-eff" alt="Ageloss" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-ageloss.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/vitaminsforlife" title="VitaminsForLife">
+                <img class="brand-img zoom-eff" alt="VitaminsForLife" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-vitaminsforlife.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/sebamed" title="Sebamed">
+                <img class="brand-img zoom-eff" alt="Sebamed" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-sebamet.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/nutricare" title="NutriCare">
+                <img class="brand-img zoom-eff" alt="NutriCare" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-nutricare.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/doppelherz" title="Doppelherz">
+                <img class="brand-img zoom-eff" alt="Doppelherz" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-doppelherz.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/nucos" title="Nucos">
+                <img class="brand-img zoom-eff" alt="Nucos" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-nucos.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/tracybee" title="Tracybee">
+                <img class="brand-img zoom-eff" alt="Tracybee" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-tracybee.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/likima" title="Likima">
+                <img class="brand-img zoom-eff" alt="Likima" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-likima.png" />
+            </a>
+        </div>
+                <div class="brand-item" data-role="item">
+            <a class="brand-link abs-img" style="padding-bottom: 100%" href="https://nhathuocnhanhoa.vn/brand/jpanwell" title="JpanWell">
+                <img class="brand-img zoom-eff" alt="JpanWell" src="https://nhathuocnhanhoa.vn/pub/media/codazon_cache/brand/100x100/nhanhoa/logo-brand/logo-jpanwell.png" />
+            </a>
+        </div>
+            </div>
+</div>

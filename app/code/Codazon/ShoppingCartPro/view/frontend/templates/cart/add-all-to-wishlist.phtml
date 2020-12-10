@@ -1,0 +1,31 @@
+<?php
+/**
+ * Copyright © Codazon, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+?>
+<?php
+use Magento\Framework\App\ActionInterface;
+?>
+<?php
+$helper = $this->helper(\Codazon\ShoppingCartPro\Helper\Data::class);
+?>
+<?php if ($helper->enableAjaxWishlist()) : ?>
+<?php
+$dataPost = [
+    'action'    => $this->getUrl('ajaxpost/product_wishlist/moveallfromcart'),
+    'data'      => [
+        ActionInterface::PARAM_NAME_URL_ENCODED => $helper->getUrlEncoder()->encode($this->getRequest()->getServer('HTTP_REFERER'))
+    ]    
+]
+?>
+<script>
+require(['jquery'], function($) {
+    var $clearBtn = $('form.form-cart .actions .action.clear');
+    if ($clearBtn.length) {
+        var $wishlistBtn = $('<button type="button" class="action towishlist" data-post=\'<?= json_encode($dataPost) ?>\'><span><?= __('Move all to wish list') ?></span></button>');
+        $wishlistBtn.insertBefore($clearBtn);
+    }
+});
+</script>
+<?php endif ?>
